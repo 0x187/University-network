@@ -1,5 +1,5 @@
 # University-network
-Design college network on cisco packet tracer.
+Design university network on cisco packet tracer.
 
 download: https://github.com/0x187/University-network/raw/main/final.pkt
 
